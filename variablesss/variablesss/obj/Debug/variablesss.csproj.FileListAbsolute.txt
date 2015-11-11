@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\variablesss\variablesss\bin\Debug\variablesss.exe.config
+\\mac\home\documents\visual studio 2015\Projects\variablesss\variablesss\bin\Debug\variablesss.exe
+\\mac\home\documents\visual studio 2015\Projects\variablesss\variablesss\bin\Debug\variablesss.pdb
+\\mac\home\documents\visual studio 2015\Projects\variablesss\variablesss\obj\Debug\variablesss.exe
+\\mac\home\documents\visual studio 2015\Projects\variablesss\variablesss\obj\Debug\variablesss.pdb

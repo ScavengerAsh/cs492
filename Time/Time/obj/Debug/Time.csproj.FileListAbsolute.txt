@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\bin\Debug\Time.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\bin\Debug\Time.exe
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\bin\Debug\Time.pdb
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\obj\Debug\Time.exe
+\\mac\home\documents\visual studio 2015\Projects\Time\Time\obj\Debug\Time.pdb

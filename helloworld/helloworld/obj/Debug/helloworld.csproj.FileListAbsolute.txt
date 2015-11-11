@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.exe.config
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.exe
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.pdb
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.exe
+\\mac\home\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.pdb

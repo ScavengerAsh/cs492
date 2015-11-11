@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\bin\Debug\@switch.exe.config
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\bin\Debug\@switch.exe
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\bin\Debug\@switch.pdb
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\obj\Debug\switch.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\obj\Debug\@switch.exe
+\\mac\home\documents\visual studio 2015\Projects\switch\switch\obj\Debug\@switch.pdb

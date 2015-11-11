@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\bin\Debug\helperfunc.exe.config
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\bin\Debug\helperfunc.exe
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\bin\Debug\helperfunc.pdb
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\obj\Debug\helperfunc.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\obj\Debug\helperfunc.exe
+\\mac\home\documents\visual studio 2015\Projects\helperfunc\helperfunc\obj\Debug\helperfunc.pdb
