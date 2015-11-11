@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\bin\Debug\classes.exe.config
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\bin\Debug\classes.exe
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\bin\Debug\classes.pdb
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\obj\Debug\classes.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\obj\Debug\classes.exe
+\\mac\home\documents\visual studio 2015\Projects\classes\classes\obj\Debug\classes.pdb
